@@ -41,7 +41,7 @@
 </div>
 
 <div style="margin-bottom: 20px;">
-  <h3 style="display: inline-block; vertical-align: middle; margin: 0 20px 0 0; width: 150px;">UI:</h3>
+  <h3 style="display: inline-block; vertical-align: middle; margin: 0 20px 0 0; width: 150px;">Ui:</h3>
   <div style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width=70 height=70 style="vertical-align: middle;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width=70 height=70 style="vertical-align: middle;" />
@@ -62,7 +62,7 @@
 </div>
 
 <div style="margin-bottom: 20px;">
-  <h3 style="display: inline-block; vertical-align: middle; margin: 0 20px 0 0; width: 150px;">Module Bundler:</h3>
+  <h3 style="display: inline-block; vertical-align: middle; margin: 0 20px 0 0; width: 150px;">Module Bundlers:</h3>
   <div style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" width=70 height=70 style="vertical-align: middle;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" width=70 height=70 style="vertical-align: middle;" />
