@@ -20,9 +20,8 @@
 <div style="margin-bottom: 20px;">
   <h3 style="display: inline-block; vertical-align: middle; margin: 0 20px 0 0; width: 150px;">AI Tools:</h3>
   <div style="display: inline-block; vertical-align: middle;">
-    <span style="font-weight: bold; margin-right: 20px;">Claude Sonnet/Opus</span>
-    <span style="font-weight: bold; margin-right: 20px;">GPT</span>
-    <!-- <span style="font-weight: bold; margin-right: 20px;">DeepSeek</span> -->
+    <img src="https://static.cdnlogo.com/logos/c/86/claude_800.png" title="Claude" width=70 height=70 />
+    <img src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png" title="GPT" width=70 height=70 />
     <img src="https://static.cdnlogo.com/logos/d/9/deepseek-icon.svg" title="DeepSeek" width=70 height=70 />
   </div>
 </div>
