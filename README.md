@@ -1,10 +1,7 @@
 <div>
 
-<h1 align="center">Hi there, I'm Artem</h1>
-<h2 align="center">I'm frontend developer from Saint-Petersburg</h2>
+<h1 align="center">Hi there, I'm Artem, Frontend Developer from Saint-Petersburg</h1>
 </div>
-
-<h2 align="center">Languages and tools</h2>
 
 <div align="left">
 
