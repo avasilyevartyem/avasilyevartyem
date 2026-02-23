@@ -22,7 +22,8 @@
   <div style="display: inline-block; vertical-align: middle;">
     <span style="font-weight: bold; margin-right: 20px;">Claude Sonnet/Opus</span>
     <span style="font-weight: bold; margin-right: 20px;">GPT</span>
-    <span style="font-weight: bold; margin-right: 20px;">DeepSeek</span>
+    <!-- <span style="font-weight: bold; margin-right: 20px;">DeepSeek</span> -->
+    <img src="https://static.cdnlogo.com/logos/d/9/deepseek-icon.svg" title="DeepSeek" width=70 height=70 />
   </div>
 </div>
 
