@@ -81,9 +81,6 @@
 <h2 align="center">Follow me</h2>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/artem-vasilev-b68a79272/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 <a href="https://t.me/avasilyevartyem">
 <img src="https://img.shields.io/badge/TELEGRAM-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
